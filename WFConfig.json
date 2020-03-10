@@ -1,0 +1,46 @@
+{
+  "BSCData": [
+    {
+      "ApplicationId": "ASC1",
+      "AppManager": "ABC",
+      "BSCContact": "BSC",
+      "PrimaryContact": "PC"
+    },
+    {
+      "ApplicationId": "ASC2",
+      "AppManager": "ABC",
+      "BSCContact": "BSC",
+      "PrimaryContact": "PC"
+    },
+    {
+      "ApplicationId": "ASC3",
+      "AppManager": "ABC",
+      "BSCContact": "BSC",
+      "PrimaryContact": "PC"
+    },
+    {
+      "ApplicationId": "ASC",
+      "AppManager": "ABC",
+      "BSCContact": "BSC",
+      "PrimaryContact": "PC"
+    }
+  ],
+  "AppData": [
+    {
+      "AppId": "ASC1",
+      "Appname": "My Application 1",
+      "CRPriority": 2
+    },
+    {
+      "AppId": "ASC2",
+      "Appname": "My Application 2",
+      "CRPriority": 1
+    },
+    {
+      "AppId": "ASC3",
+      "Appname": "My Application 3",
+      "CRPriority": 1
+    }
+  ]
+
+}
